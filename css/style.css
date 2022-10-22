@@ -1,0 +1,25 @@
+.title{
+color: white;
+ text-align: center;
+  font-size: 70px; 
+  text-transform: uppercase;
+   background-color: green;	
+}
+
+
+.btn{
+  height: 60px;
+   width: 160px; 
+   background-color:blue;
+   color: white; 
+   font-size: 20px;
+   border:none;
+    border-radius: 10px; 
+    transition: 0.5s;  
+}
+.btn:hover{
+    background-color: green;
+    cursor: pointer;
+    transform: scale(0.8);
+    transition: 0.5s;
+}
